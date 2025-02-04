@@ -13,6 +13,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "questao03", "questao03", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "questao04", "questao04", "{34A27BD0-D07E-4FF5-B672-FFBBEA3DF847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao04.ConsoleApp", "Questao04.ConsoleApp\Questao04.ConsoleApp.csproj", "{111499E8-EB8F-4332-9A46-2FED2E64B41A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "questao05", "questao05", "{0DAB7AD0-8E60-4C30-AD8B-16CB1575D716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao05.ConsoleApp", "Questao05.ConsoleApp\Questao05.ConsoleApp.csproj", "{0D420EF5-FD8D-4B93-BA81-A7A49028373C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,14 @@ Global
 		{30F90E4A-27CE-4ED2-A947-3690675343F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F90E4A-27CE-4ED2-A947-3690675343F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F90E4A-27CE-4ED2-A947-3690675343F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111499E8-EB8F-4332-9A46-2FED2E64B41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111499E8-EB8F-4332-9A46-2FED2E64B41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111499E8-EB8F-4332-9A46-2FED2E64B41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111499E8-EB8F-4332-9A46-2FED2E64B41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D420EF5-FD8D-4B93-BA81-A7A49028373C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D420EF5-FD8D-4B93-BA81-A7A49028373C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D420EF5-FD8D-4B93-BA81-A7A49028373C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D420EF5-FD8D-4B93-BA81-A7A49028373C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +48,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1AA74EB1-AD2F-42F0-AD68-A62B71BC43BB} = {95DF660B-E952-4C8F-AF83-57B16026BF5E}
 		{30F90E4A-27CE-4ED2-A947-3690675343F5} = {3094FB93-74CA-451A-B5BC-796A843985AD}
+		{111499E8-EB8F-4332-9A46-2FED2E64B41A} = {34A27BD0-D07E-4FF5-B672-FFBBEA3DF847}
+		{0D420EF5-FD8D-4B93-BA81-A7A49028373C} = {0DAB7AD0-8E60-4C30-AD8B-16CB1575D716}
 	EndGlobalSection
 EndGlobal
